@@ -1,0 +1,173 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.00270092319198,
+          41.891599496367604
+        ]
+      },
+      "properties": {
+        "createdAt": "2026-10-12T15:48:28.744Z",
+        "style": {
+          "fillColor": "#18181B",
+          "strokeColor": "#111111",
+          "strokeWidth": 2,
+          "opacity": 1,
+          "strokeOpacity": 1,
+          "radius": 5,
+          "labelField": "",
+          "textSize": 12,
+          "textColor": "#111827"
+        },
+        "name": "Cide Belediye Binası",
+        "date": "",
+        "layerType": "point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              33.002638082464614,
+              41.89215297746787
+            ],
+            [
+              33.0029583244534,
+              41.89214064625827
+            ],
+            [
+              33.00296195542904,
+              41.892222296740755
+            ],
+            [
+              33.00264194313547,
+              41.892248274834515
+            ],
+            [
+              33.002638082464614,
+              41.89215297746787
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "createdAt": "2026-10-12T15:49:51.819Z",
+        "style": {
+          "fillColor": "#18181B",
+          "strokeColor": "#111111",
+          "strokeWidth": 2,
+          "opacity": 0.3,
+          "strokeOpacity": 1,
+          "radius": 5,
+          "labelField": "",
+          "textSize": 12,
+          "textColor": "#111827"
+        },
+        "name": "Taksi Durağı",
+        "date": "",
+        "layerType": "polygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              33.00269124386335,
+              41.891139497157724
+            ],
+            [
+              33.002878769260406,
+              41.891194427394936
+            ],
+            [
+              33.00286556196508,
+              41.89123386976132
+            ],
+            [
+              33.0026934476582,
+              41.891181956607
+            ],
+            [
+              33.00269124386335,
+              41.891139497157724
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "createdAt": "2026-10-12T15:51:21.433Z",
+        "style": {
+          "fillColor": "#18181B",
+          "strokeColor": "#111111",
+          "strokeWidth": 2,
+          "opacity": 0.3,
+          "strokeOpacity": 1,
+          "radius": 5,
+          "labelField": "",
+          "textSize": 12,
+          "textColor": "#111827"
+        },
+        "name": "Dolmuş Durağı",
+        "date": "",
+        "layerType": "polygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              33.0028253008322,
+              41.891331204902286
+            ],
+            [
+              33.00313621922328,
+              41.89143788194562
+            ],
+            [
+              33.00299742672547,
+              41.89208007254658
+            ],
+            [
+              33.00273853103184,
+              41.89207952848761
+            ],
+            [
+              33.0028253008322,
+              41.891331204902286
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "createdAt": "2026-10-12T15:52:43.628Z",
+        "style": {
+          "fillColor": "#18181B",
+          "strokeColor": "#111111",
+          "strokeWidth": 2,
+          "opacity": 0.3,
+          "strokeOpacity": 1,
+          "radius": 5,
+          "labelField": "",
+          "textSize": 12,
+          "textColor": "#111827"
+        },
+        "name": "Belediye Meydanı",
+        "date": "",
+        "layerType": "polygon"
+      }
+    }
+  ]
+}
